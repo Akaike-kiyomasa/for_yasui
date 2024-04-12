@@ -1,4 +1,4 @@
-#Setup
+# Setup
 
 ## Install apt dependencies
 ```
@@ -23,7 +23,7 @@ Make sure you activate it each time you use the training code.
 pip install -r requirements.txt
 ```
 
-#Use interpreter
+# Use interpreter
 ```
 interpreter -m azure/gpt-4-model
 ```
